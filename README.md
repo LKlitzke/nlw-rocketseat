@@ -4,7 +4,9 @@
 
 Projeto construído no evento Next Level Week (NLW) da Rocketseat.
 
-[Clique aqui para acessar](https://lklitzke.github.io/nlw-rocketseat/)
+[Github Pages](https://lklitzke.github.io/nlw-rocketseat/)
+
+[Perfil no Rocketseat](https://app.rocketseat.com.br/me/lucas-klitzke-1586449415)
 
 ## ⚒️ Tecnologias
 - HTML
